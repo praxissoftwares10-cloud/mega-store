@@ -1,0 +1,6 @@
+{
+  "name": "Megastore Computers",
+  "description": "Your Trusted Tech Partner in Nairobi - E-Commerce Storefront, Customer Portal, and Admin Dashboard for Laptops, MacBooks, Touchscreen PCs, and Accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
